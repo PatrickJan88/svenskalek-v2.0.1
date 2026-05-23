@@ -25,5 +25,3 @@ This web app is an AI-assisted prototype designed to support vocabulary learning
 • **AI Collaboration**: Directed AI to generate initial HTML/CSS/JS code based on the design  <br />
 • **Code Supervision**: Reviewed and corrected AI-generated output manually  <br />
 • **Iteration**: Collected feedback and made improvements accordingly  <br />
-
-⚠️ This app currently uses mock data only and has no backend/API integrations. It is shared for discussion, learning, and showcasing AI-assisted design workflows — not intended as a production-ready product.
