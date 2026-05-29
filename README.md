@@ -14,8 +14,6 @@ Try the app here: https://papaya-cat-9382bf.netlify.app
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
-**About the Project**  <br />
-This web app is an AI-assisted prototype designed to support vocabulary learning for Swedish language learners. While much of the code was generated using AI tools, I led the project through the entire UX and development workflow:
 
 **My Role & Contributions**  <br />
 • **User Research**: Empathized with both novice and advanced language learners  <br />
